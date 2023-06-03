@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Simulador de Loteria Mega-Sena](https://alarme-em-js.netlify.app/)
+- [Simulador de Loteria Mega-Sena](https://simulador-loteria.netlify.app/)
