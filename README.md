@@ -1,17 +1,10 @@
 ##  Simulador de Loteria Mega-Sena
 <br>
-<p align="center">
-  <img  alt="CSS" height="500" width="800" src="screenshot.do.projeto.png"></img>
-  <img  alt="CSS" height="500" width="800" src="screenshot.do.projeto2.png"></img>
+<p float="left">
+  <img  alt="CSS" height="500" width="450" src="screenshot.do.projeto.png"></img>
+  <img  alt="CSS" height="500" width="450" src="screenshot.do.projeto2.png"></img>
 </p>
 <br>
-<p float="left">
-
- <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
-
- <img src="https://user-images.githubusercontent.com/105131652/186226781-c57b7eca-b9b8-44fd-9439-05f1383bd079.jpg" width="200" /> 
-
-</p>
 
 ### Tecnologias utilizadas:
 <hr>
