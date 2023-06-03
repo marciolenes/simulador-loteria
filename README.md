@@ -1,8 +1,8 @@
 ##  Simulador de Loteria Mega-Sena
 <br>
-<p float="left">
-  <img  alt="CSS" height="500" width="450" src="screenshot.do.projeto.png"></img>
-  <img  alt="CSS" height="500" width="450" src="screenshot.do.projeto2.png"></img>
+<p float="center">
+  <img  alt="CSS" height="500" width="400" src="screenshot.do.projeto.png"></img>
+  <img  alt="CSS" height="500" width="400" src="screenshot.do.projeto2.png"></img>
 </p>
 <br>
 
